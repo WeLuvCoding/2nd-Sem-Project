@@ -1,0 +1,18 @@
+body {
+    background-color: aqua;
+}
+
+footer {
+    background-color:rgb(10, 179, 171);
+    font-size: large;
+    font-weight:bolder;
+    
+}
+
+h5 {
+    color: deeppink;
+}
+
+h3 {
+    color: rgb(51, 40, 204);
+}
